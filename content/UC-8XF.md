@@ -1,5 +1,7 @@
 # UC-8XF
 
+[[GA58-7]] [90-A1P]
+
 ## Structures 
 
 ### Azbel TULA
