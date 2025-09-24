@@ -1,5 +1,7 @@
 # NEU-UD
 
+[[4O-ZRI]] [[CNHV-M]] [[N-I024]] [[Y-7XVJ]]
+
 ## Tatara: TATARA
 
 High Power Slots
