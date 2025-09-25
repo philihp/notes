@@ -26,7 +26,7 @@ Standup L-Set Blueprint Copy Optimization I
 Standup Hyasyoda Research Lab
 Standup Invention Lab I
 Standup Manufacturing Plant I
-Charges
+#### Charges
 Standup Focused Warp Scrambling Script
 
 ## Azbel BRYANSK
@@ -49,7 +49,7 @@ Standup L-Set Basic Capital Component Manufacturing Efficiency I
 Standup L-Set Structure Manufacturing Efficiency I
 #### Service Slots
 Standup Manufacturing Plant I
-Charges
+#### Charges
 Standup Focused Warp Scrambling Script
 
 ## Azbel CHELYABINSK
@@ -73,7 +73,7 @@ Standup L-Set Capital Ship Manufacturing Efficiency I
 #### Service Slots
 Standup Cloning Center I
 Standup Manufacturing Plant I
-Charges
+#### Charges
 Standup Focused Warp Scrambling Script
 
 ## Tatara NORILSK
@@ -102,5 +102,5 @@ Standup Composite Reactor I
 Standup Hybrid Reactor I
 Standup Moon Drill I
 Standup Reprocessing Facility I
-Charges
+#### Charges
 Standup Focused Warp Scrambling Script
