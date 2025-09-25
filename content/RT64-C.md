@@ -2,6 +2,10 @@
 
 [[QG3-Z0]] [[LJ-RJK]]
 
+## Planets
+
+Planet VIII is Temperate. Putting a mercenary den here is worth around 500m ISK/month.
+
 ## Moons
 
 There is an R64 at Planet IV Moon 2
