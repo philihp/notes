@@ -12,3 +12,7 @@ There is an R63 at Planet VII Moon 3
 | Coesite    |     37.61% |
 | Pollucite  |     19.39% |
 | Sylvite    |     10.57% |
+## Structures
+### Athanor - Drill P7M3
+
+### Fortizar - Heget
