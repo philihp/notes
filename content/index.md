@@ -1,5 +1,3 @@
 ---
-title: EVE Docs
+title: Arx Potrero
 ---
-
-EVE-related documents and accessories
